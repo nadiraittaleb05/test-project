@@ -1,0 +1,167 @@
+.qq{
+    color: white;
+    float: left;
+    font-size: 30px;
+}
+.ww{
+    float:right;
+    list-style: none;
+}
+.ee{
+    float: left;
+    padding: 15px;
+    font-size: 25px;
+    color:black;
+}
+.rr{
+    background-color: rgb(228, 3, 3);
+    height: 100px;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(255, 0, 0);
+}
+.a{
+    color:black;
+    text-decoration: none;
+}
+.img{
+    background-image: url("image.jpg");
+    width: 1500px;
+    height: 700px;
+    text-align: center;
+}
+.img{
+    float: right;
+}
+.t1{
+    text-align: center;
+    font-size: 50px;
+}
+.t2{
+    text-align: center;
+    font-size: 50px;
+}
+.di{
+    font-size: 50%;
+    float: left;
+
+}
+.dp{font-size:50%;
+    color: aliceblue;
+    float: right;
+}
+.t3{ 
+   float: right;
+}
+.bto{
+    height: 75px;
+    width: 150px;
+    border-radius: 75px;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+    font-size: 25px;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    border: aliceblue;
+    cursor: pointer;
+    
+}
+.bto:hover{
+    transform: scale(110%);
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in;
+}
+.cmt{
+    margin-left: 150px;
+    font-size: larger;
+    width: 600px;
+}
+.xx{
+    background-color: black;
+    color: red;
+    width: 1500px;
+    height: 35px;
+}
+.img1{
+    background-image:url("image9.jpg");
+}
+  
+.kk{
+    display: flex;
+    font-size: larger;
+    margin-left: 650px;
+    margin-top: 100px;
+    
+}
+.nom{
+    margin-left: 500px;
+    font-size: larger;
+    width: 600px;
+}
+.bv{
+    margin-left: 500px;
+    font-size: 25px;
+    color: white;
+}
+.gg{
+    width: 50px;
+}
+.kl{
+    display: flex;
+    color: white;
+    padding: 30px;
+}
+.ks{
+    color: white;
+}
+.nom3{
+    color: white;
+    font-size: larger;
+    margin-left: 300px;
+}
+.che{
+    font-size: x-large;
+    background-color: rgb(217, 201, 201);
+    align-content: center;
+    border-radius: 50px;
+    font-size: x-large;
+    margin-left: 120px;
+
+}
+.btnc{
+    border-radius: 15px;
+    background-color: rgb(255, 1, 1);
+    color: black;
+    font-size: large;
+    margin-left: 680px;
+    cursor: pointer;
+    margin-top:15px;
+   
+    height: 40px;
+
+}
+.btnc:hover{
+    transform: scale(110%);
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in;
+    background-color: rgb(255, 255, 255);
+  
+}
+.btop{  height: 75px;
+        width: 150px;
+        border-radius: 75px;
+        font-family: Georgia, 'Times New Roman', Times, serif;  
+        font-size: 25px;
+        color: black;
+        background-color: rgb(255, 255, 255);
+        border: aliceblue;
+        cursor: pointer;
+        margin-left: 380px;
+        margin-top: 50px;
+    }
+.btop:hover{  transform: scale(110%);
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in;
+    background-color: rgb(199, 17, 17);
+}
